@@ -333,7 +333,8 @@ header {
 
 .srevice {
     width:33.333%;
-    margin: 15px auto;
+    margin: 15px auto; 
+    padding: 0 15px;
 }
 
 @media (min-width: 800px) {
